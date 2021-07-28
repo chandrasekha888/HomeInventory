@@ -1,0 +1,31 @@
+3
+AppleIphone
+Table
+34
+false
+900000
+06/10/2201
+applestore
+very good
+C:\Users\asus\Desktop\applephone.JPG
+SONY
+Table
+21
+true
+12000
+05/30/2642
+www.amazon.com
+Very Good Product
+C:\Users\asus\Desktop\sony.JPG
+Samsung
+Table
+6789
+true
+56783
+06/30/2111
+www.flipkart.com
+Samsung phone is a good phone
+
+2
+Table
+
